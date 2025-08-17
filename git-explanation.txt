@@ -38,3 +38,10 @@ pannuna atha git kku sollanum athukkana commands
    4. athukkunappuram main branch kku check out panitu main kku brach kku difference parkka 
    5. git diff branchname nu command run pannanum 
    6.athukkunappuram branch la iruthu main git merge branchname pannnaum net atha main push pannanumgit push origin main
+
+ main la ethachumchages irunthu atha namma branch kku kodu vara nama bre=anch la commands
+   1.git fetch main
+   2.git merge origin/main
+   3.git add .
+   4.git commit
+   5.git push origin brach
