@@ -1,0 +1,27 @@
+1. GIT  la oru repository create pannitu . athe mari desktop la oru folder create pannittu 
+itha vs code la open terminal open panni git repositoy link command ah git la clone pannanum
+
+COMMAND => git clone "clone link"
+
+
+
+2.vs code la oru new file create and code write pannuna and file ah delete
+pannuna atha git kku sollanum athukkana commands
+  1.git add . (last dot impotant)
+  2.git commit -m "commite msg"
+  3.git push origin main
+
+3.athe mari git la oru file create pannuna athe vscode kku kondu vara command cd kuduthu project folder kku terminal la ponum athukkunappuram
+  command
+     1.git pull
+
+4.vs code la project la new ah oru folder create pannuna and athukulla file create pannuna atha gitkku anuppanum athukkan acommamdns
+  1.create a folder in vs code and also file inside of folder
+  2.terminal la and folder kulla poittu cd kuduthu
+  3.git init nu command kudukkanum
+  4.git add . (last dot impotant)
+  5.git commit -m "commite msg"
+  6. ipo direct ah main la push panna mudiyathu so git la oru new repository open panni athula ulla chane remote commamd ah vscode terminal la run pannanum
+  7. ipo git branch nu termilal la run pannuna master nu varum so itha main nu change pannanum athullana connamand
+  8.git branch-M main
+  8.ipo git push origin main nu command run pannuna folder git la set agirum
