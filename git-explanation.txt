@@ -37,4 +37,4 @@ pannuna atha git kku sollanum athukkana commands
    4. git push origin branch nu avanga branch la push pannanum 
    4. athukkunappuram main branch kku check out panitu main kku brach kku difference parkka 
    5. git diff branchname nu command run pannanum 
-   6.athukkunappuram branch la iruthu main git pull pannnaum net atha main push pannanumgit push origin main
+   6.athukkunappuram branch la iruthu main git merge branchname pannnaum net atha main push pannanumgit push origin main
