@@ -1,1 +1,42 @@
-file created
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>git learn</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <button class="btn" onclick="press()">show</button>
+
+<div class="container"></div>
+<div class="popup">
+    <input type="text" placeholder="enter name">
+    <br>
+    <input type="text" placeholder="enter password">
+    <br>
+    <button class="close">close</button>
+</div>
+
+    
+</body>
+<script>
+    var btn = document.querySelector(".btn");
+    var container = document.querySelector(".container");
+    var popup = document.querySelector(".popup");
+    var close =document.querySelector(".close");
+   
+    function press(){
+        container.style.display="block";
+        popup.style.display="block";
+
+    }
+    close.addEventListener("click",function(){
+          container.style.display="none";
+        popup.style.display="none";
+
+    })
+</script>
+</html>
