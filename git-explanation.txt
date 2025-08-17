@@ -12,7 +12,7 @@ pannuna atha git kku sollanum athukkana commands
   3.git push origin main
 
 3.athe mari git la oru file create pannuna athe vscode kku kondu vara command cd kuduthu project folder kku terminal la ponum athukkunappuram
-  command
+  command also ithu git la branch create panni atha vs code kku kondu varaum ithan command
      1.git pull
 
 4.vs code la project la new ah oru folder create pannuna and athukulla file create pannuna atha gitkku anuppanum athukkan acommamdns
@@ -25,3 +25,16 @@ pannuna atha git kku sollanum athukkana commands
   7. ipo git branch nu termilal la run pannuna master nu varum so itha main nu change pannanum athullana connamand
   8.git branch-M main
   8.ipo git push origin main nu command run pannuna folder git la set agirum
+
+
+5.git branch check panna antha folder la kulla irukka branch mattum check panna command 
+  1.git brach -a
+
+ 6. git la new ah barnch cretate pannit atha vs code la kondu vara and antha branch kulla poga commands
+   1. git pull
+   2. git checkout brachname 
+   3.inga ethachum file branch menber create pannittu aatha avanga adda and commit pannittu 
+   4. git push origin branch nu avanga branch la push pannanum 
+   4. athukkunappuram main branch kku check out panitu main kku brach kku difference parkka 
+   5. git diff branchname nu command run pannanum 
+   6.athukkunappuram branch la iruthu main git pull pannnaum net atha main push pannanumgit push origin main
