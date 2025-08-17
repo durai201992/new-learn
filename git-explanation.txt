@@ -40,7 +40,7 @@ pannuna atha git kku sollanum athukkana commands
    6.athukkunappuram branch la iruthu main git merge branchname pannnaum net atha main push pannanumgit push origin main
 
  main la ethachumchages irunthu atha namma branch kku kodu vara nama bre=anch la commands
-   1.git fetch main
+   1.git fetch origin
    2.git merge origin/main
    3.git add .
    4.git commit
